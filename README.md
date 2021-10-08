@@ -1,16 +1,14 @@
-# world_time
+# World Time
 
-A new Flutter application.
+This application makes use of an api endpoint worldtimeapi.org to get time information from different parts of the world.
 
-## Getting Started
+Here is the live testing link https://appetize.io/app/bn9hz5jpxqfp1udm2n8fjetr9g
 
-This project is a starting point for a Flutter application.
+Below is also a video of how it works
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/59648161/136537029-6e917d3a-254f-45a1-a1e5-c4b5cebd3565.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I was also able to update the UI for error handling incase the user has no network, below is a video of how the error handling works.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/59648161/136537204-07952cc5-cca2-4660-9dbd-b29b247367b4.mp4
+
